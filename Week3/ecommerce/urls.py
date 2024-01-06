@@ -1,8 +1,8 @@
 """
 
-Developed By : Siva Veludurthi
-facebook : fb.com/Siva Veludurthi
-Youtube :youtube.com/Siva Veludurthi
+Developed By : Vaishnavi
+facebook : fb.com/Vaishnavi
+Youtube :youtube.com/Vaishnavi
 
 
 """
